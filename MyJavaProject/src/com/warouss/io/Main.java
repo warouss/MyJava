@@ -25,12 +25,12 @@ public class Main {
 	
 	private void execute() {
 		//Test createFixedFileSize
-//		createFixedFileSize("1Gbp.tmp", 1000*1000*1000/8);
+//		createFixedFileSize("src/com/warouss/io/1Gbp.tmp", 1000*1000*1000/8);
 		
 		String fileName = "src/com/warouss/io/TestWriteRead.txt";
 		//Test Write Read
-		writerFile(fileName);
-		readFile(fileName);
+//		writerFile(fileName);
+//		readFile(fileName);
 //		scanFile(fileName);
 //		deleteFile(fileName);
 		
