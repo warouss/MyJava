@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<customers>
+	<customer id="1">
+		<name>John Smith</name>
+		<complain>Internet Connection problem</complain>
+	</customer>
+	<customer id="2">
+		<name>Will Foster</name>
+		<complain>DTH Service problem</complain>
+	</customer>
+	<customer id="3">
+		<name>Jonty Rhodes</name>
+		<complain>Set-Top box not working</complain>
+	</customer>
+</customers>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer id="4">
+    <complain>New Customer From JAXB</complain>
+    <name>Brad Host</name>
+</customer>
